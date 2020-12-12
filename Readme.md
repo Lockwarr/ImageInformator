@@ -18,6 +18,6 @@
 
    ## To test the api you can 
    
-    Send get request at *http://localhost:8000/images/process* to list all image informations
+    Send get request at http://localhost:8000/images/process to list all image informations
     
-    Send post request with body *{"url": "some_url"}* using Postman(or some other tool) to endpoint *http://localhost:8000/images/process*
+    Send post request with body {"url": "some_url"} using Postman(or some other tool) to endpoint http://localhost:8000/images/process
